@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "crv": "P-384",
+      "alg": "ES384",
+      "use": "sig",
+      "kid": "avanta-oa-staging-2026-11",
+      "x": "zb_QTYhBtb0jVY-VknsxSELK8qLodjBw6lqkcAIfDlnHf5wNzjH9NpP_DD4P9yag",
+      "y": "RI6QYyocTzKus4YmE4r4XLFf3CT2MIry48_04A1IYuaWifb7fdNF3EyqBp78ANAq"
+    }
+  ]
+}
