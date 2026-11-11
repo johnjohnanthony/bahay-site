@@ -268,3 +268,4 @@ h3{margin:0 0 8px;font-weight:600;font-size:20px;line-height:1.35}
     .badge{padding:3px 10px}
   h1,.page-home h1{font-size:34px}
 }
+.tagline{margin:-4px 0 20px;font-size:20px;font-weight:500;letter-spacing:.01em;line-height:1.4;color:var(--mint)}
