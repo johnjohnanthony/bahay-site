@@ -8,6 +8,14 @@
       "kid": "avanta-oa-staging-2026-11",
       "x": "zb_QTYhBtb0jVY-VknsxSELK8qLodjBw6lqkcAIfDlnHf5wNzjH9NpP_DD4P9yag",
       "y": "RI6QYyocTzKus4YmE4r4XLFf3CT2MIry48_04A1IYuaWifb7fdNF3EyqBp78ANAq"
+    },
+    {
+      "kty": "RSA",
+      "n": "-zwfi4T3trmPajSKKbLNdNL0MMGgzKOLcP2BI7eci12B1TiXcgp66JgdUbMa3Dgq2ptL1Ff6QgOPe2ZgGn5lVIvt5HaLhWprLSrtbwPVOA3YN16v9ot-c6me4TQ4bIDvNwifLX_fgXbZ2xDA34y5npU_L4AC4uAxc9KWxrXp1LFtWqowJQn4-bz81nTQkUZHBX7JUBwAIlqE4dESmJBVwdRV-2fm2o6yNH9QrpuWATmlXdPMKc4Mz551TfqaOE1FJjvLfknhVSAr0uxpQlKGnMCIBbpidNi52-FqawhbkaicZctLyaQKWOmw5NoZd5xpWr8mHWjsHhdtGHuIO7Mg7LCq7X9wqnpSzVb4N0gkEngAxb7m9hm2lQqnEJAUreqY4MMwwfM3SoGS35kEM5wx--qW4klMDnD2RnAYNYU3lxA0EEJEhLluGbEkuOl3-BgrCgnQCIHsc9bofJSug0eJypm86wXEfazDA9NkXJUvV8ZB9CWXQ8j0xNyOKAdNesvx",
+      "e": "AQAB",
+      "alg": "RS384",
+      "use": "sig",
+      "kid": "avanta-oa-staging-rs384-2026-11"
     }
   ]
 }
